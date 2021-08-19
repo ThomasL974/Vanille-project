@@ -6,6 +6,8 @@ Projet développé pendant ma deuxième année de BTS SIO. Ce projet consistait 
 - HTML
 - CSS
 - SQL
+- JavaScript
+- Tex
 
 ## Requis
 ### Installation de **MAMP**
